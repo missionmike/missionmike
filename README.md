@@ -6,7 +6,7 @@ I also enjoy spending time with family, working with audio and video, and workin
 
 When I'm not working, I'm playing on the computer and hanging out with my kids! Check out our YouTube channels: [Sleepy Slawth Gaming](https://www.youtube.com/channel/UC3m6NxN3ZhCpYkL4LM8gHMg) and [Mikey &amp; Daddy](https://www.youtube.com/channel/UCifuv8WtP23D0I_RHmj-wrA)
 
-- 💻 My favorite programming languages are PHP and JavaScript.
+- 💻 My favorite programming languages are PHP, JavaScript, TypeScript.
 - ⚙️ My favorite libraries and frameworks are React and GatsbyJS.
 - 📑 WordPress is my favorite CMS.
 - 🌱 As I learn and grow, my favorites evolve!
