@@ -4,10 +4,10 @@ I'm a web developer and graphic designer currently residing in the Pacific North
 
 I also enjoy spending time with family, working with audio and video, and working on home improvement projects.
 
-When I'm not working, I'm playing on the computer and hanging out with my kids! Check out our YouTube channels: [Sleepy Slawth Gaming](https://www.youtube.com/channel/UC3m6NxN3ZhCpYkL4LM8gHMg) and [Mikey &amp; Daddy](https://www.youtube.com/channel/UCifuv8WtP23D0I_RHmj-wrA)
+When I'm not working, I'm playing on the computer and hanging out with my kids! Check out our YouTube channels: [Sleepy Slawths](https://www.youtube.com/@sleepyslawths) and [Mikey &amp; Daddy](https://www.youtube.com/@mikeyndaddy)
 
 - 💻 My favorite programming languages are PHP, JavaScript, TypeScript.
-- ⚙️ My favorite libraries and frameworks are React, Next.js, and GatsbyJS.
+- ⚙️ My favorite libraries and frameworks are React and Next.js.
 - 📑 WordPress is my favorite CMS and open-source project.
 - 🌱 As I learn and grow, my favorites evolve!
 
