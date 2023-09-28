@@ -11,6 +11,8 @@ When I'm not working, I'm playing on the computer and hanging out with my kids! 
 - 📑 WordPress is my favorite CMS and open-source project.
 - 🌱 As I learn and grow, my favorites evolve!
 
-I've been a professional web developer since 2012. I'm looking to learn more about collaborative development by contributing to open source projects.
+I've been a professional web developer since 2012. I'm looking to learn more about collaborative development by contributing to open source projects. Sometimes I share my thoughts on my [personal & tech blog](https://www.missionmike.dev/).
 
 To reach me, please connect with me on X: https://x.com/missionmikedev or LinkedIn: https://www.linkedin.com/in/michaeldinerstein/
+
+I can also be found on other platforms: https://linktr.ee/missionmike
